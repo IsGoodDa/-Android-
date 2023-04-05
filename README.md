@@ -1,5 +1,7 @@
 # Android-spltjy
 在这里你可以与世界各地的友人交谈聊天取得联系，让交友不再受距离限制；Here you can talk to friends from all over the world and get in touch, so that making friends is no longer limited by distance
+
+
 前言：
 
 "视频交友聊天"项目旨在为用户提供一个互动、娱乐、交友的平台。该平台允许用户使用视频聊天功能与其他用户进行实时通话，并在聊天中交流、分享自己的生活和兴趣爱好，以此增加彼此的了解和友谊。
