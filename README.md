@@ -1,3 +1,5 @@
+在这里你可以与世界各地的友人交谈聊天取得联系，让交友不再受距离限制；Here you can talk to friends from all over the world and get in touch, so that making friends is no longer limited by distance.
+
 ## 前言
 
 视频聊天交友软件是一种通过互联网实现的社交工具，允许用户通过视频聊天的方式与陌生人进行交流，以便扩大社交圈子并结识新朋友。
