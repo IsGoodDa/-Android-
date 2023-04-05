@@ -1,10 +1,3 @@
-# RemoteData
-
-`RemoteData` is an enum you can use to represent the different states a resource that needs to be loaded from the network or any other location which responds asynchronously can be.
-
-This is a port of the [Elm](http://elm-lang.org/) package [RemoteData](https://github.com/krisajenkins/remotedata).
-
-
 ## 前言
 
 视频聊天交友软件是一种通过互联网实现的社交工具，允许用户通过视频聊天的方式与陌生人进行交流，以便扩大社交圈子并结识新朋友。
